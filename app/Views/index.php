@@ -29,7 +29,7 @@
                                 <option value="medium">Medium (151-199)</option>
                                 <option value="heavy">Heavy (>=200)</option>
                             </select>
-                            <button type="button" class="btn btn-primary">Filter</button>
+                            <button type="submit" class="btn btn-primary">Filter</button>
                         </div>
                     </div>
                 </form>
